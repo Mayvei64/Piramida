@@ -1,1 +1,0 @@
-Выбрали датасет, связанный с циррозом печени. Ссылка на датасет - https://archive.ics.uci.edu/dataset/878/cirrhosis+patient+survival+prediction+dataset-1
